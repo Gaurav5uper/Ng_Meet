@@ -1,0 +1,26 @@
+.example-card {
+    /* max-width: 400px; */
+    background-color: teal;
+    color: white;
+    height: initial;
+    display: flex;
+  
+    
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .button{
+    background-color: greenyellow;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+  }
+  .input{
+      height: 30px;
+      width: auto;
+      border-radius: 10px;
+      border: 3px solid black;
+  }
